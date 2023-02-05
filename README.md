@@ -21,7 +21,7 @@
 ### Clone este repositório
 
 ```
-git clone git@github.com: 
+git clone git@github.com: git@github.com:DanielZarkos/desafio-m6-report-generator-backend.git
 ```
 
 ### Crie o ambiente virtual em seu terminal
