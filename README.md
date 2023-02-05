@@ -21,7 +21,7 @@
 ### Clone este repositório
 
 ```
-git clone git@github.com: https://github.com/DanielZarkos/Cnab_Reader-DanielZarkos
+git clone git@github.com: 
 ```
 
 ### Crie o ambiente virtual em seu terminal
