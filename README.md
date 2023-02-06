@@ -21,7 +21,7 @@
 ### Clone este repositório
 
 ```
-git clone git@github.com: git@github.com:DanielZarkos/desafio-m6-report-generator-backend.git
+git clone git@github.com: https://github.com/DanielZarkos/Cnab_Reader-DanielZarkos
 ```
 
 ### Crie o ambiente virtual em seu terminal
